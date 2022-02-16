@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Introduction](#Introduction)
-* [Methods Used](#Method-Used)
+* [Methods Used](#Methods-Used)
 * [Download and Setup](#Download-and-Setup)
 * [Problem Statement](#Problem-Statement)
 * [Business Goal](#Business-Goal)
