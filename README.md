@@ -105,23 +105,18 @@ R2_Score for Lasso regresion is slightly better than the others. All the models 
 
 #### Ridge Regression
 * **Optimal Lambda Value:** 10
-* **R2 Score Train:** 0.9227
-* **R2 Test Score:**  0.8917
-* **RMSE Test:**      0.1336
+* **R2 Score Train:** 0.92
+* **R2 Test Score:**  0.89
+* **RMSE Test:**      0.13
 
 #### Lasso Regression
-* **Optimal Lambda Value:** .0002
-* **R2 Score Train:**  0.9264
-* **R2 Test Score:**   0.8945
-* **RMSE Test:**       0.1318
+* **Optimal Lambda Value:** 0.0002
+* **R2 Score Train:**  0.93
+* **R2 Test Score:**   0.89
+* **RMSE Test:**       0.13
 
 #### Most Significant Variables are:
-* GrLivArea
-* GarageCars
-* GarageArea
-* TotalBsmtSF
-* OverallQual
-* Exterior1st
-* Neighbourhood
 * MSZoning
-
+* Neighborhood
+* GrLivArea
+* Exterior1st
